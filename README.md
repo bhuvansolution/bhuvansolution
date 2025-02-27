@@ -1,16 +1,49 @@
-## Hi there 👋
+### Hello world, I'm Bhuvan Solution  👋 
 
-<!--
-**bhuvansolution/bhuvansolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=bhuvansolution&color=red)&nbsp;
+[![GitHub bhuvansolution](https://img.shields.io/github/followers/bhuvansolution?label=follow&style=social)](https://github.com/bhuvansolution)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I enjoy collaborating with people on works of similar interest.\
+🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
+✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+
+### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+
+-----
+### 📫 &nbsp; How to reach me:
+
+
+
+<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/bhuvansolution/"><img src="https://img.shields.io/badge/-@bhuvansolution-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:bhuvansolution99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hackerrank.com/bhuvansolution99"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/bhuvansolution99/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+
+-----  
+
+<h1 align="center">Projects</h1>
+
+</div>
+<div  align="center">
+ 
+<a href="https://avinash201199.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bhuvansolution&repo=indorack&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://avinash201199.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bhuvansolution&repo=App-PrediksiEmas&show_icons=true&theme=great-gatsby" ></a>
+
+</div>
+
+
+
+### Languages and Tools
